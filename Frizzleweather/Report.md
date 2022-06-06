@@ -75,8 +75,8 @@ It's facile to exploit the vulnerability with _Slowloris_. But, the attacker mus
 = 3.5 = Medium
 
 Hence,\
-Severity (Technical Impact) = Likelihood $\times$ Risk = High × High = Critical\
-Severity (Business Impact) = High × Medium = High 
+Severity (Technical Impact) = Likelihood $\times$ Risk = High $\times$ High = Critical\
+Severity (Business Impact) = High $\times$ Medium = High 
 
 ## CVSS Score
 **CVSS Base Score = 8.6**\

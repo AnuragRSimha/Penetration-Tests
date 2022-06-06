@@ -75,7 +75,7 @@ It's facile to exploit the vulnerability with _Slowloris_. But, the attacker mus
 = 3.5 = Medium
 
 Hence,\
-Severity (Technical Impact) = Likelihood × Risk = High × High = Critical\
+Severity (Technical Impact) = Likelihood $\times$ Risk = High × High = Critical\
 Severity (Business Impact) = High × Medium = High 
 
 ## CVSS Score
@@ -89,10 +89,10 @@ Modified Impact Subscore = 5.8\
 (CVSS: AV:N/AC:L/PR:N/UI:N/S:U/C:L/I:L/A:H/CR:X/IR:X/AR:H/MAV:N/MAC:L/MPR:N/MUI:N/MS:U/MC:L/MI:L/MA:H)
 
 ## Tools Used and Setup Required
-1. Use ufw
-2. Setup a DMZ
-3. Keep Wireshark always on
-4. Monitor and analyse packets
+1. Use ufw.
+2. Setup a DMZ.
+3. Keep Wireshark always on.
+4. Monitor and analyse packets.
 
 ## Prerequisites
 The attacker must have a well established internet connection, and Slowloris tool installed.

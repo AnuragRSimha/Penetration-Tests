@@ -95,7 +95,7 @@ Modified Impact Subscore = 5.8\
 4. Monitor and analyse packets.
 
 ## Prerequisites
-The attacker must have a well established internet connection, and Slowloris tool installed.
+The attacker must have a well-established internet connection, and Slowloris tool installed.
 
 ## Additional Information
 Date of the attack: 9<sup>th</sup> May, 2022.\
